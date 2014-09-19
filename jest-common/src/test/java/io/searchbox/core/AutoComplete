@@ -1,7 +1,11 @@
 /**
+ 
  * 1. should suggest
    2. auto generate should be delete
    3. @author willer.wang
+ 
+ * 
+ 
  */
 package io.searchbox.core;
 
